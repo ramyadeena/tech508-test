@@ -19,10 +19,11 @@ what/why?
 - staging area-added to index
 - git directory-committed
 
-
+## Git command 
 - git init - initalise the repository
 - git add - add the changes
 - git status - check the status
 - git commit - commit the changes
+
 
 
