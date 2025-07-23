@@ -1,0 +1,12 @@
+name = input("Enter the name: ")
+age = int(input("Enter the age: "))
+dob= input("Enter the dob: ")
+user_list = [name,age,dob]
+print(user_list[0])
+print(user_list[1])
+print(user_list[2])
+print(user_list)
+height=float(input("Enter the height: "))
+print(type(height))
+user_list.append(height)
+print(user_list)

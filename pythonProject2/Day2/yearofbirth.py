@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from fstring import years
+
 
 age_int = 18
 name = "Swetha"
@@ -29,6 +29,6 @@ print(current_year)
 yearofbirth = current_year-age_int
 print(yearofbirth)
 days_lived = age_int*365*24
-hours_lived=age_int*365*24*60
+calc_hours=age_int*365*24*60
 print(f"{name} has lived for {days_lived} days")
-print(hours_lived)
+print(calc_hours)
