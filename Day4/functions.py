@@ -54,3 +54,11 @@ print(division())
 #each function should do one things .
 #make it easy to understand what types are expected and returned.
 #use return values from functions instead of printing
+
+word="Harry"
+result=word.swapcase()
+print(result)
+
+char="a"
+result= char.valueascii()
+print(result)
